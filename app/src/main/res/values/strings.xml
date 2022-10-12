@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo_Fragment</string>
+    <string name="hello_fragment" />
+    <string name="hello_blank_fragment" />
+    <string name="hello_blank_fragment1">blank_fragment1</string>
+    <string name="hello_blank_fragment2">blank_fragments2</string>
+</resources>
